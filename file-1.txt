@@ -2,3 +2,8 @@ Apple
 Banana
 Orange
 Grapes
+DOG
+CAT
+ELEPHANT
+MOUSE
+MONKEY
